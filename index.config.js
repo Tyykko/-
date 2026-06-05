@@ -71,7 +71,7 @@ var index_config_default = {
     autoPush: true
   },
   t4: {list: [
-    {name: "🔞海豚",
+    {name: "🐬海豚",
       address: "https://wsws.debrapabstgnx25.workers.dev"}
   ]},
   cms: {list: [
