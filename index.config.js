@@ -75,7 +75,6 @@ var index_config_default = {
       address: "https://wsws.debrapabstgnx25.workers.dev"}
   ]},
   cms: {list: [
-    {name: "JC", address: "https://raw.githubusercontent.com/Tyykko/JP/refs/heads/main/JinriCP-PandaTV.m3u"},
     {name: "聚合传媒", address: "https://php.doube.eu.org/spider/php/麻豆.php"},
     {name: "滴滴", address: "https://api.ddapi.cc/api.php/provide/vod"},
     {name: "鸡坤", address: "https://jkunzyapi.com/api.php/provide/vod"},
@@ -331,3 +330,4 @@ var index_config_default = {
     }
   ]
 };
+
