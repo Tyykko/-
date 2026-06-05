@@ -72,9 +72,7 @@ var index_config_default = {
   },
   t4: {list: [
     {name: "海豚",
-      address: "https://wsws.debrapabstgnx25.workers.dev"},
-    {name: "JP",
-      address: "https://jp.debrapabstgnx25.workers.dev"}
+      address: "https://wsws.debrapabstgnx25.workers.dev"}
   ]},
   cms: {list: [
     {name: "聚合传媒", address: "https://php.doube.eu.org/spider/php/麻豆.php"},
