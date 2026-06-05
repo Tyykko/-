@@ -71,11 +71,11 @@ var index_config_default = {
     autoPush: true
   },
   t4: {list: [
-    {name: "🔞聚合传媒",
-      address: "https://php.doube.eu.org/spider/php/麻豆.php"}
+    {name: "🔞海豚",
+      address: "https://wsws.debrapabstgnx25.workers.dev"}
   ]},
   cms: {list: [
-    {name: "🐬海豚", address: "https://wsws.debrapabstgnx25.workers.dev"},
+    {name: "🔞聚合传媒", address: "https://php.doube.eu.org/spider/php/麻豆.php"},
     {name: "🔞滴滴", address: "https://api.ddapi.cc/api.php/provide/vod"},
     {name: "🔞鸡坤", address: "https://jkunzyapi.com/api.php/provide/vod"},
     {name: "🔞TG资源", address: "https://tgzyz.pp.ua/api.php/provide/vod"},
@@ -309,7 +309,7 @@ var index_config_default = {
         tertiaryContainer: "0xFF1E4E4E",
         onTertiaryContainer: "0xFFBBEBEB",
         error: "0xFFFFB4AB",
-        errorContainer: "0xFF93000A",
+        errorContainer: "0xFF93000a",
         onError: "0xFF690005",
         onErrorContainer: "0xFFFFDAD6",
         background: "0xFF1A1C18",
