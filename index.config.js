@@ -75,7 +75,7 @@ var index_config_default = {
       address: "https://php.doube.eu.org/spider/php/麻豆.php"}
   ]},
   cms: {list: [
-    {name: "🔞海豚", address: "https://wsws.debrapabstgnx25.workers.dev"},
+    {name: "🐬海豚", address: "https://wsws.debrapabstgnx25.workers.dev"},
     {name: "🔞滴滴", address: "https://api.ddapi.cc/api.php/provide/vod"},
     {name: "🔞鸡坤", address: "https://jkunzyapi.com/api.php/provide/vod"},
     {name: "🔞TG资源", address: "https://tgzyz.pp.ua/api.php/provide/vod"},
